@@ -1,4 +1,0 @@
-Streamlit
-numpy
-scikit-learn
-sentence-transformers
